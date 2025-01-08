@@ -1,0 +1,9 @@
+.logo_pos_container {
+  display: flex;
+  padding: 20px 5px;
+  /* gap: 50px; */
+  justify-content: space-around;
+}
+.imageBorder {
+  border: 1px solid #cac7c7;
+}

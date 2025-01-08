@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Draggable from "react-draggable";
 import "./logo_positioning.css";
-import tshirtImg from "../../../public/img/blank-tshirt.png";
+import tshirtImg from "../../assets/img/blank-tshirt.png";
 
 const LogoPositioning = () => {
   const [logo, setLogo] = useState(null);

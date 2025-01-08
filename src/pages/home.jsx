@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import ShopTable from "../components/ShopTable";
-import { shopCloumn } from "../utils/ShopColumn";
+import { shopCloumn } from "../utils/shopColumn";
 
 const Home = () => {
   const [data, setData] = useState([]);
